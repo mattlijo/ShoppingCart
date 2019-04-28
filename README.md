@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/mattlijo/ShoppingCart.png)](https://travis-ci.org/mattlijo/ShoppingCart)
+
+
+
 # ShoppingCart
 Shopping Cart application allows products to be scaned and calculate the cart value based on the pricingrules. The pricing rules must be dynamic and can change in the future. Hence the pricing rules must be provided for each checkout.
 
